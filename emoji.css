@@ -11,24 +11,24 @@
 }
 
 .jpa-05em {
-  width: 0.5em;
-  height: 0,5em;
-  margin: -0.1ex 0.025em 0 0.05em;
-  background-size: 0.5em 0.5em;
+  width: 0.5em !important;
+  height: 0,5em !important;
+  margin: -0.1ex 0.025em 0 0.05em !important;
+  background-size: 0.5em 0.5em !important;
 }
 
 .jpa-075em {
-  width: 0.75em;
-  height: 0,75em;
-  margin: -0.15ex 0.0325em 0 0.075em;
-  background-size: 0.75em 0.75em;
+  width: 0.75em !important;
+  height: 0,75em !important;
+  margin: -0.15ex 0.0325em 0 0.075em !important;
+  background-size: 0.75em 0.75em !important;
 }
 
 .jpa-1em {
-  width: 1em;
-  height: 1em;
-  margin: -0.2ex 0.05em 0 0.1em;
-  background-size: 1em 1em;
+  width: 1em !important;
+  height: 1em !important;
+  margin: -0.2ex 0.05em 0 0.1em !important;
+  background-size: 1em 1em !important;
 }
 
 .jpa-2em {
