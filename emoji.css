@@ -10,6 +10,12 @@
   background-size: 1em 1em;
 }
 
+.jpa-05em {
+  width: 0.5em;
+  height: 0,5em;
+  margin: -0.1ex 0.025em 0 0.05em;
+  background-size: 0.5em 0.5em;
+}
 
 .jpa-1em {
   width: 1em;
@@ -25,7 +31,14 @@
   background-size: 2em 2em;
 }
 
-.jpa-lg {
+.jpa-3em {
+  width: 3em;
+  height: 3em;
+  margin: -0.3ex 0.15em 0 0.3em;
+  background-size: 3em 3em;
+}
+
+.jpa-4em {
   width: 4em;
   height: 4em;
   margin: -0.8ex 0.2em 0 0.4em;
