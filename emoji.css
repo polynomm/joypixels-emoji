@@ -10,29 +10,24 @@
   background-size: 1em 1em;
 }
 
-.jpa-8px{
-    width: 8px;
-  height: 32px;
-  margin: -0.05ex 0.0125em 0 0.025em;
-  background-size:8px 8px;
-}
-.jpa-sm {
-  width: 32px;
-  height: 32px;
+
+.jpa-1em {
+  width: 1em;
+  height: 1em;
   margin: -0.2ex 0.05em 0 0.1em;
   background-size: 1em 1em;
 }
 
 .jpa-med {
-  width: 64px;
-  height: 64px;
+  width: 2em;
+  height: 2em;
   margin: -0.4ex 0.1em 0 0.2em;
   background-size: 2em 2em;
 }
 
 .jpa-lg {
-  width: 128px;
-  height: 128px;
+  width: 4em;
+  height: 4em;
   margin: -0.8ex 0.2em 0 0.4em;
   background-size: 4em 4em;
 }
